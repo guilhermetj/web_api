@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PIkkB+3vNHjlOet2qhsOOtYt2DNdcOaN7n3QoqKJBwA=",
+  "Source": "crud_dotnet",
+  "BasePath": "_content/crud_dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
